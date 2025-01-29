@@ -1,6 +1,6 @@
 {
   "name": "@segment/consent-manager",
-  "version": "5.8.1",
+  "version": "5.8.2",
   "description": "Drop-in consent management plugin for analytics.js",
   "keywords": [
     "gdpr",
@@ -43,9 +43,9 @@
     "@segment/top-domain": "^3.0.0",
     "emotion": "^9.1.2",
     "isomorphic-fetch": "^3.0.0",
-    "js-cookie": "^2.2.0",
+    "js-cookie": "^3.0.5",
     "lodash": "^4.17.21",
-    "nanoid": "^1.0.2",
+    "nanoid": "^5.0.9",
     "prop-types": "^15.6.1",
     "styled-components": "^5.3.5"
   },
