@@ -1,6 +1,6 @@
 {
   "name": "@onparallel/consent-manager-do-not-use",
-  "version": "5.8.2",
+  "version": "5.8.3",
   "description": "Drop-in consent management plugin for analytics.js",
   "keywords": [
     "gdpr",
